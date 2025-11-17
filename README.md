@@ -5,7 +5,7 @@ A full-stack application for automatic diet tracking using speech input, calorie
 ## Project Structure
 
 ```
-healthyfy-me/
+calorie_call-me/
 ├── flutter_app/          # Flutter frontend
 │   └── lib/
 │       ├── screens/      # 5 main screens
