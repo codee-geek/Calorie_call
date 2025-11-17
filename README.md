@@ -1,4 +1,4 @@
-# HealthyFy Me – Smart Diet Auto-Tracking System
+# Calorie Call – Smart Diet Auto-Tracking System
 
 A full-stack application for automatic diet tracking using speech input, calorie counting, and meal prediction.
 
@@ -213,7 +213,7 @@ MIT License
 
 ## Author
 
-HealthyFy Me Development Team
+ calorie call Development Team
 
 # Calorie_call
 # Calorie_call
